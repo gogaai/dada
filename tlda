@@ -1,0 +1,3 @@
+FAL_KEY="key_id:29f088de-2a13-4712-a74d-2dafb736d900"
+npm install
+npm run dev
